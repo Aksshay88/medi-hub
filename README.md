@@ -94,7 +94,7 @@ git clone https://github.com/itsmohit097/medi-hub.git
 - Do check out the [project issue tracker](https://github.com/itsmohit097/medi-hub/issues) section.
 - Do not raise any issues regarding READNE.md file.
 - 
-
+sample one 
 
 This is for sample purpose 
 
